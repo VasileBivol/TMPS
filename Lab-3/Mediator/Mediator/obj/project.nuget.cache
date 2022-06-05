@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ofkOoPeTNnwwXh42Wqkd1N0olVdMiGbk/kkF/xcEJW8DcD2xNGDylUxf+MEh4nILK6BGlt42USyWe3nTKjDrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dorin\\Desktop\\Lab-3\\Mediator\\Mediator\\Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

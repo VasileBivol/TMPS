@@ -1,0 +1,13 @@
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\obj\Debug\netcoreapp3.1\Comand.csprojAssemblyReference.cache
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\obj\Debug\netcoreapp3.1\Comand.AssemblyInfoInputs.cache
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\obj\Debug\netcoreapp3.1\Comand.AssemblyInfo.cs
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\obj\Debug\netcoreapp3.1\Comand.csproj.CoreCompileInputs.cache
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\bin\Debug\netcoreapp3.1\Comand.exe
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\bin\Debug\netcoreapp3.1\Comand.deps.json
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\bin\Debug\netcoreapp3.1\Comand.runtimeconfig.json
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\bin\Debug\netcoreapp3.1\Comand.runtimeconfig.dev.json
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\bin\Debug\netcoreapp3.1\Comand.dll
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\bin\Debug\netcoreapp3.1\Comand.pdb
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\obj\Debug\netcoreapp3.1\Comand.dll
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\obj\Debug\netcoreapp3.1\Comand.pdb
+C:\Users\dorin\Desktop\Lab-3\Comand\Comand\obj\Debug\netcoreapp3.1\Comand.genruntimeconfig.cache

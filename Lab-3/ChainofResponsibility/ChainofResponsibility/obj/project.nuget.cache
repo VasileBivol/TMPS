@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/kr/TJuKmvYxF6xyiWaBkGdkTDKRKYdicHdR0pyoICLOfcYz6QDUxQBXPOkBrzLzdPFmI8pUIwJDz8dCB6Cng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dorin\\Desktop\\Lab-3\\ChainofResponsibility\\ChainofResponsibility\\ChainofResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
