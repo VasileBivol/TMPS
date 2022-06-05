@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rGK/wu7ilV88I/+XzVBJFbQWv6lRkkIdjgrVVPIbjg7PlMzvn5Sd7Kk4sl/SVP9hI73Du7tz8owSxeZj7JV4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dorin\\Desktop\\Lab-2\\BridgePattern\\BridgePattern\\BridgePattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

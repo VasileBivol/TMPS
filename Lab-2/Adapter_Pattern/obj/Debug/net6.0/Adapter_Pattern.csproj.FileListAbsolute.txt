@@ -1,0 +1,15 @@
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\bin\Debug\net6.0\Adapter_Pattern.exe
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\bin\Debug\net6.0\Adapter_Pattern.deps.json
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\bin\Debug\net6.0\Adapter_Pattern.runtimeconfig.json
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\bin\Debug\net6.0\Adapter_Pattern.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\bin\Debug\net6.0\ref\Adapter_Pattern.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\bin\Debug\net6.0\Adapter_Pattern.pdb
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.csproj.AssemblyReference.cache
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.AssemblyInfoInputs.cache
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.AssemblyInfo.cs
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.csproj.CoreCompileInputs.cache
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\ref\Adapter_Pattern.dll
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.pdb
+D:\UTM\Anul 3\SEM2\TMPS(TEHNICI SI MECANISME DE PROIECTARE SOFTWARE)\Projects\Adapter_Pattern\obj\Debug\net6.0\Adapter_Pattern.genruntimeconfig.cache
